@@ -1,8 +1,5 @@
 # 🐍 Práticas de Python
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Em%20Estudo-brightgreen)
-
 Este repositório é dedicado às minhas práticas e estudos em Python!  
 Aqui você encontrará:
 
