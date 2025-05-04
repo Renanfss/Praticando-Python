@@ -5,8 +5,8 @@
 import os
 
 def funcao():
-    #Código da função
-
+    print("#Código da função")
+    
 def main():
     os.system('cls')
     funcao()
